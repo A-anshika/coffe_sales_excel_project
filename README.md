@@ -16,17 +16,17 @@ Coffee_Sales_Dashboard.xlsx: The main Excel workbook containing the dashboard.
 Data/: Folder containing raw sales data files.
 README.md: This file.
 
-##Prerequisites
-###1.Microsoft Excel 2016 or later.
-###2.Basic understanding of Excel features such as pivot tables, charts, and slicers.
+## Prerequisites
+1.Microsoft Excel 2016 or later.
+2.Basic understanding of Excel features such as pivot tables, charts, and slicers.
 
-##Installation
-###1.Clone or download the repository to your local machine.
-###2.Open Coffee_Sales_Dashboard.xlsx in Microsoft Excel.
-###3.Enable macros and content if prompted.
-###4.Interact with the dashboard by using the slicers and exploring the charts.
+## Installation
+1.Clone or download the repository to your local machine.
+2.Open Coffee_Sales_Dashboard.xlsx in Microsoft Excel.
+3.Enable macros and content if prompted.
+4.Interact with the dashboard by using the slicers and exploring the charts.
 
-##Usage
+## Usage
 Use the slicers to filter the data by different dimensions such as region, product, and time period. The charts and KPIs will update dynamically based on the selected filters, providing insights into the sales performance.
 
 Feel free to customize this template further based on the specific features and structure of your project.
