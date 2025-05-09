@@ -4,6 +4,17 @@ An interactive Excel dashboard designed to visualize and analyze coffee sales da
 ## Project Overview
 This project demonstrates the creation of an interactive dashboard using Microsoft Excel, focusing on coffee sales data. The dashboard includes dynamic pivot tables, slicers, and charts to enable users to explore and analyze sales data effectively.
 
+## Objectives
+The primary goal of this project is to develop an interactive dashboard using Microsoft Excel that enables stakeholders to gain actionable insights into coffee sales data. This tool aims to facilitate data-driven decision-making and strategic planning. The specific objectives are:
+
+1. Data Integration and Transformation: Consolidate and clean raw sales data from multiple sources to create a unified dataset suitable for analysis.
+
+2. Interactive Data Visualization: Design and implement dynamic charts and graphs that allow users to explore sales trends, regional performance, and product popularity.
+
+3. User-Friendly Interface: Develop an intuitive dashboard interface that includes slicers and filters, enabling users to interact with the data without advanced Excel skills.
+
+4. Performance Metrics Calculation: Automate the calculation of key performance indicators (KPIs) such as total sales, average order value, and sales growth to monitor business performance.
+
 ## Features
 Dynamic Pivot Tables: Summarize and analyze sales data by various dimensions such as region, product, and time period.
 Interactive Slicers: Filter data dynamically to view specific subsets of the sales data.
