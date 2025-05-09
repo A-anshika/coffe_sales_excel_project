@@ -21,10 +21,10 @@ README.md: This file.
 2. Basic understanding of Excel features such as pivot tables, charts, and slicers.
 
 ## Installation
-1.Clone or download the repository to your local machine.
-2.Open Coffee_Sales_Dashboard.xlsx in Microsoft Excel.
-3.Enable macros and content if prompted.
-4.Interact with the dashboard by using the slicers and exploring the charts.
+1. Clone or download the repository to your local machine.
+2. Open Coffee_Sales_Dashboard.xlsx in Microsoft Excel.
+3. Enable macros and content if prompted.
+4. Interact with the dashboard by using the slicers and exploring the charts.
 
 ## Usage
 Use the slicers to filter the data by different dimensions such as region, product, and time period. The charts and KPIs will update dynamically based on the selected filters, providing insights into the sales performance.
