@@ -17,8 +17,8 @@ Data/: Folder containing raw sales data files.
 README.md: This file.
 
 ## Prerequisites
-1.##Microsoft Excel 2016 or later.
-2.##Basic understanding of Excel features such as pivot tables, charts, and slicers.
+1. **Microsoft Excel 2016 or later.
+2. **Basic understanding of Excel features such as pivot tables, charts, and slicers.
 
 ## Installation
 1.Clone or download the repository to your local machine.
