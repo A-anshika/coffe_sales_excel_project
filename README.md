@@ -1,4 +1,4 @@
-# coffe_sales_excel_project
+# coffee_sales_excel_project
 An interactive Excel dashboard designed to visualize and analyze coffee sales data, providing insights into sales performance, trends, and key metrics.
 
 ## Project Overview
@@ -22,7 +22,7 @@ README.md: This file.
 
 ## Installation
 1. Clone or download the repository to your local machine.
-2. Open Coffee_Sales_Dashboard.xlsx in Microsoft Excel.
+2. Open CoffeeOrdersProject.xlsx in Microsoft Excel.
 3. Enable macros and content if prompted.
 4. Interact with the dashboard by using the slicers and exploring the charts.
 
